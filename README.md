@@ -7,6 +7,6 @@ Currently working on:
 ---
 ### 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Instagram](https://www.instagram.com/your-link)
-- [Medium](https://medium.com/@your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/your-link)
+[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white)](https://medium.com/@your-link)
