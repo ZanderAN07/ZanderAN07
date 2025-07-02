@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Zhenbin An
 
-I'm a first-year Computer Science student at the **University of Toronto** 🇨🇦.  
+**University of Toronto** 🇨🇦.  
 ---
 ### 🔗 Connect with me
 
