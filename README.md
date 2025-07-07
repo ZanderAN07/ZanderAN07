@@ -1,4 +1,4 @@
-**University of Toronto** 🇨🇦.  
+**University of Toronto**.  
 ---
 ### 🔗 Connect with me
 
