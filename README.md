@@ -1,5 +1,3 @@
-### 👋 Hello, I'm Zhenbin An
-
 **University of Toronto** 🇨🇦.  
 ---
 ### 🔗 Connect with me
