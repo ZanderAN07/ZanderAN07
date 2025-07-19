@@ -1,4 +1,4 @@
-**University of Toronto**.  
+**University of Toronto Computer Science Y1**.  
 ---
 ### 🔗 Connect with me
 
