@@ -1,2 +1,2 @@
-**University of Toronto Computer Science Y1**.  
+**University of Toronto Computer Science**.  
 ---
